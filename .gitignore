@@ -1,0 +1,17 @@
+.idea
++.DS_Store*
+.pytest_cache
+__pycache__/
+*.rb
+.vscode
+CACHEDIR.TAG
+.venv/
+
+*.py[cod]
+*$py.class
+
+.env
+
+.ipynb_checkpoints/
+
+Thumbs.db
