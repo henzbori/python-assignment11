@@ -1,0 +1,13 @@
+Reflect on the differences between static and interactive visualizations.
+Static Visualizations are faster, easier but interactive visualizations are giving user options to zoom, filter, interact and explore data providing deeper analysis.
+
+
+
+Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+it enables custom insights(using dropdowns, sliders), gives real-time data exploration and updates, and provides efficient presentation of key metrics, improving decision-making. 
+
+
+
+Explain how interactive tools like Plotly and Dash can improve data communication in professional settings.
+Plotly and Dash improve data communication by making complex data more simpler, accessible, interactive, and engaging for clients.
+
